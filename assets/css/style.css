@@ -220,6 +220,18 @@ body {
     height: auto; /* Keeps aspect ratio */
 }
 
+.btn.btn-light {
+    border-radius: 0;
+    align-items: bottom;
+}
+
+#sign-up-btn {
+    border-radius: 0;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
 
 
 /* 5 cards css to hover in and out*/
