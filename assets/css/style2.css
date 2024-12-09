@@ -48,7 +48,6 @@ div {
 
 #quote {
     padding-top: 20px;
-    padding-bottom: 20px;
     text-align: center;
     font-family: var(--primary-font);
 }
@@ -90,10 +89,6 @@ div.flex-container {
 
 
 
-
-
-
-
 /* COUNTDOWN timer*/
 
   
@@ -109,13 +104,6 @@ body {
     background: black no-repeat center center / cover;
     color: white;
 }
-  
-
-
-
-
-
-
 .countdown-container {
     display: flex;
     width: 100%;
@@ -123,7 +111,6 @@ body {
     justify-content: space-between;
 
 }
-  
 .days-container,
 .hours-container,
 .minutes-container, 
@@ -138,7 +125,6 @@ body {
     height: 140px;
     border-radius: 99px;
 }
-  
 .days,
 .hours,
 .minutes,
@@ -146,8 +132,6 @@ body {
     font-size: 2.5em; 
     margin: 10px 0;
 }
-  
-  
 .days-label,
 .hours-label,
 .minutes-label,
@@ -156,6 +140,7 @@ body {
     margin-bottom: 5px;
 }
   
+
 @mdia (max-width: 800px) {
     .countdown-container {
       max-width: 50%;
@@ -172,3 +157,7 @@ body {
 }
   
   
+
+#ivesting-quote {
+    font-size: 50px;
+}

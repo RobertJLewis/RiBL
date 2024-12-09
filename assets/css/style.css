@@ -38,8 +38,9 @@ div {
 
 }
 
+
 #quote {
-    padding-top: 30px;
+    padding-top: 3rem;
     text-align: center;
     font-family: var(--primary-font);
 }
@@ -203,9 +204,21 @@ body {
     align-items: center;
 }
 
+#buffets-face {
+    max-height: 5vh;
+}
 
-
-
+.card-body {
+    background-color: black;
+    color: white;    
+}
+.card {
+    --bs-card-border-width: 0;
+}
+.custom-img {
+    width: 20px;
+    height: auto; /* Keeps aspect ratio */
+}
 
 
 
@@ -294,14 +307,6 @@ body {
         transform-origin: bottom center; /* Ensure the bottom of the image is the focal point */
     }
 }
-
-
-
-
-
-
-
-
 
 
 
