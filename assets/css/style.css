@@ -27,23 +27,37 @@
     border-radius: 0px;
 }
 
-h1,
-h2,
-h3,
-p,
-span,
-div {
+
+h1 {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
-
+    font-size: 32px;
 }
 
-
-#quote {
-    padding-top: 3rem;
+h2 {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+    font-size: 20px;
     text-align: center;
-    font-family: var(--primary-font);
+    padding-top: 3rem;
 }
+
+h3, p {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
 
 .sub-heading-color {
     color: var(--highlight-color);
@@ -153,7 +167,6 @@ body {
 }
   
 @media (max-width: 800px) {
-  
     .countdown-container {
       max-width: 100%;
     }
@@ -181,6 +194,16 @@ body {
     align-items: center;
 }
 
+
+
+
+
+
+
+
+
+
+
 /* Flexbox layout for the row inside #buffets-find-out */
 #buffets-find-out .row {
     display: flex;
@@ -204,9 +227,6 @@ body {
     align-items: center;
 }
 
-#buffets-face {
-    max-height: 5vh;
-}
 
 .card-body {
     background-color: black;
@@ -234,14 +254,13 @@ body {
 }
 
 
-/* 5 cards css to hover in and out*/
 
-/* Background color for the body */
-body {
-    background-color: black;
-    margin: 0;
-    padding: 0;
-}
+
+
+
+
+
+
 
 /* Target only the container with ID #five-card */
 /* Background color for the body */
@@ -253,11 +272,10 @@ body {
 
 /* Target only the container with ID #five-card */
 #five-card {
-
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     width: 70%;
-    height: 32vw;
+    height: 30vw;
     display: flex;
     justify-content: center;
     gap: 10px;
@@ -298,8 +316,6 @@ body {
     #five-card {
         width: 90%; /* Reduce container width to 90% on tablets */
     }
-
-
     #five-card .card img {
         transform-origin: bottom center; /* Ensure the bottom of the image is the focal point */
     }
@@ -360,4 +376,75 @@ body {
 
 
 
+/* NEW MEDIA QUERYS CLEAN UP!!*/
 
+/* Media queries */
+
+/* Media Queries for responsive font sizing */
+@media screen and (min-width: 500px) {
+    h2 {
+        font-size: 32px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /* Make all service cards the same height for consistency */
+    h1 {
+        font-size: 40px;
+    }
+}
+@media screen and (min-width: 768px) {
+    h2 {
+        font-size: 41px;
+    }
+}
+
+
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /* Make all service cards the same height for consistency */
+    h1 {
+        font-size: 46px;
+    }
+}
+@media screen and (min-width: 992px) {
+    h2 {
+        font-size: 48px;
+    }
+}
+
+
+/* xl devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* make all service cards the same height for consistency */
+    h1 {
+        font-size: 50px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    h2 {
+        font-size: 55px;
+    }
+}
+
+
+
+
+
+
+
+
+/* xxl devices (larger desktops, 1400px and up) */
+@media screen and (min-width: 1400px) {
+    /* make all service cards the same height for consistency */
+    h1 {
+        font-size: 52px;
+    }
+}
+@media screen and (min-width: 1400px) {
+    h2 {
+        font-size: 75px;
+    }
+}
