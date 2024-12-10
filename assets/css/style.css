@@ -256,6 +256,10 @@ div.minutes {
 }
     
 
+.card-img-top {
+    max-width: 350px;
+}
+
 
 #sign-up-btn {
     border-radius: 0;
