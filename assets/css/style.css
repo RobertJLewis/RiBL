@@ -128,7 +128,7 @@ footer {
 /* COUNTDOWN timer*/
 body {
     font-family: var(--primary-font);
-    color: (var--secondary-color);
+    color: var(--secondary-color);
     background-color: var(--primary-color);
 
     /* count down */
