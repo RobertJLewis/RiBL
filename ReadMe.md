@@ -88,6 +88,7 @@ Testing
 
 
     Bugs
+        No Bugs
 
 
 
@@ -116,9 +117,6 @@ Cloning of the Repository Code locally
     The project is now created as a local clone
 
 
-
-
-
 Credits
     I want to give a special thanks to my mentor for all the support and for patiently answering my questions. I’d also like to thank Ieuan and Jyotsna for providing valuable, unbiased, non-tech perspectives, and Lewis for pointing out some great suggestions.
 
@@ -141,3 +139,7 @@ Credits
             Crypto Graphic: https://www.2moonsai.com/free-photo-prompt/crypto-logo-shining-bright-world-digital-finance
             Stocks Graphic: https://en.arincen.com/stocks-news/apple-beats-expectations-due-to-strong-iphone-demand-20091
             Indicies Graphic: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsosoY1Ftldh-ZEebeTYMfjEmfguYl33elBrHRCiMfy_4gRYZO
+
+
+* Please note:
+    All images are for my project and are not intended for business or commercial use.
