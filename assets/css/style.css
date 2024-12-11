@@ -42,7 +42,7 @@ h2 {
     padding-top: 3rem;
 }
 
-h3, {
+h3 {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
     text-align: center;
@@ -96,7 +96,7 @@ div.container-fluid {
 }
 
 div.flex-container {
-    container: center;
+    align-items: center;
 }
 
 .footer-link {
@@ -128,7 +128,7 @@ footer {
 /* COUNTDOWN timer*/
 body {
     font-family: var(--primary-font);
-    font-display: white;
+    color: (var--secondary-color);
     background-color: var(--primary-color);
 
     /* count down */
@@ -245,16 +245,8 @@ body {
 
 div, .btn.btn-light {
     border-radius: 0;
-    align-items: bottom;
-
-    font-family: var(--secondary-font)
-    
+    font-family: var(--secondary-font);
 }
-
-div.minutes {
-
-}
-    
 
 .card-img-top {
     max-width: 350px;
