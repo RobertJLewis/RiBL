@@ -1,7 +1,47 @@
-Company Overiew 
-    RiBL Capital is an autonomous trading company, focused on leveraging advanced automated trading bots to execute strategic buy and sell decisions within the financial markets. Ai bots (names Solomon) will autonomously analyze market trends, assess real-time data, and execute trades based on sophisticated algorithms, with the potential to integrate machine learning for improved decision-making over time. By utilizing this cutting-edge technology, RiBL Capital aims to create a seamless and highly efficient trading system that operates independently, optimizing market opportunities with minimal human intervention, while also exploring additional cloud platforms for enhanced functionality.
+Project Milestone 1 for Code Institute Full-Stack Development Program: HTML/CSS Essentials
+    This project is a Front End website for RIBL Capital, an autonomous trading company that leverages advanced AI bots, including one named Solomon, to execute strategic buy and sell decisions in the financial markets. The website is designed to introduce RIBL to potential clients, showcase its innovative brand, and highlight its cutting-edge services. Solomon autonomously analyzes market trends, assesses real-time data, and executes trades based on sophisticated algorithms, with the potential to integrate machine learning for enhanced decision-making over time. By utilizing this technology, RIBL Capital aims to create a highly efficient, independent trading system that optimizes market opportunities with minimal human intervention, while also exploring additional cloud platforms for improved functionality. The site is user-friendly and interactive, allowing visitors to connect with RIBL through a contact form and social media channels.
 
     Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
+
+    
+    assets/images/screen-size mockup.png
+
+ReadMe Table Content:
+    Introduction 
+
+    Wireframes & Designs
+        Home Page
+        Solomon Page
+        Newsletter Page
+
+    Website Features 
+        Navbar
+        Header
+        Theme & Color
+        Small i 
+        Footer
+
+    Website pages
+        Index.html
+            Count-down timer
+            Warren buffet
+            Investment sector cards explained
+
+        Solomon Page
+
+        Newsletter Page
+
+    Testing
+        SEO: Lighthouse results 
+        HTML testing
+        CSS testing
+        Bugs
+
+    Deployment
+
+    Credits
+
+
 
 
 Initial wireframes:    
@@ -33,7 +73,18 @@ Website Features:
     
     
     Theme & color choice
+
+        #ffffff
+        #000000
+        #84c9dd
+
         Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
+        
+        Typography
+            Nunito Sans, sans-serif is used as the main font for the whole website.
+            Noto Serif, Times New Roman is Secondary font used through the website.
+
+        
     Small (i)
         Gives reference to one of the founders names & highlights the inclusion of internet & Ai driven decition within their trading method.
 
@@ -55,7 +106,7 @@ Website pages:
 
         Warren buffet 
             "iNVESTiNG TODAY,iS SAViNG TOMORROW"
-            You’ll see a quote from Warren Buffett alongside his image, giving users a sense of direction and the potential vision for the company’s future. It adds inspiration and reinforces the company’s ambitions, as they aim to axhive success similar to Warren Buffett.
+            You’ll see a quote from Warren Buffett alongside his image, giving users a sense of direction and the potential vision for the company’s future. It adds inspiration and reinforces the company’s ambitions, as they aim to achive success similar to Warren Buffett.
             
         Investment sector cards explained 
             The interactive investment cards provide users with an engaging overview of the five key economic sectors—stocks, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
@@ -67,7 +118,7 @@ Website pages:
        The design is user-friendly, with text broken up by several hero images that span the full width of the page. This layout makes the content more engaging and easy to navigate. The page also provides users with detailed information about the company, its mission, and the roadmap ahead, offering a clear understanding of what to expect.
 
     Newsletter page
-        The sign-up form enables RiBL to collect user data and send them tailor made emails, depending on preference of choosen investment secotr, about upcoming events, news, market trends or any milestones. after completing the newsletter form you instantly get redirected to a success page, which allows for the user to know they subbmition was success. 
+        The sign-up form enables RiBL to collect user data and send them tailor made emails, depending on preference of choosen investment secotr, about upcoming events, news, market trends or any milestones. after completing the newsletter form you instantly get redirected to a success page, which allows for the user to know they submittion was success. 
 
 
 
@@ -115,6 +166,23 @@ Cloning of the Repository Code locally
     Click on HTTPS and copy the repository link
     Open the IDE of your choice and and paste the copied git url into the IDE terminal
     The project is now created as a local clone
+
+    Technologies Used
+        Languages Used
+            HTML5.
+            CSS3.
+            Java
+            Bootstrap.
+
+    Frameworks - Libraries - Programs Used
+        Google Fonts:
+        Google fonts were used to import the primary and secondaary fonts throughout the style.css.
+
+    Font Awesome:
+        Font Awesome are used as an icons for user UX purposes.
+
+    Adobe
+        Illistrator and Photosho where used on images through my project for resizing and utalising their Ai generative fill feature
 
 
 Credits
