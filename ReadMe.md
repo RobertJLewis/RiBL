@@ -51,7 +51,7 @@ Laptop mockup screen shots:
 
 
 # Website Features: 
-- Navbar
+* Navbar
 Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
 - Header
 The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
