@@ -43,62 +43,60 @@ Introduction
 
 
 
-
 Initial wireframes:    
-    The site was developed with the Mobile-first method. The wireframes were therefore created with that thought in mind, and created using Adobe Illistrator. 
-    First Canvas:  
-        Home page.
+The site was developed with the Mobile-first method. The wireframes were therefore created with that thought in mind, and created using Adobe Illistrator. 
+- First Canvas:  
+    - Home page.
 
-    Second Canvas: 
-        Solomon Page. 
+- Second Canvas: 
+    - Solomon Page. 
 
-    Third Canvas: 
-        Newsletter sign-up page. 
+- Third Canvas: 
+    - Newsletter sign-up page. 
 
-    [Screen shot of wireframes for phone & laptop] 
-        Mobile Phone:   
+Mobile Phone:   
 ![Screenshot](/assets/images/mobile-wireframe.png)
         
 
-        Laptop:         
+Laptop:         
 ![Screenshot](/assets/images/laptop-wireframe.png)
 
 
 Website Features: 
 
-    Navbar
-        Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
+- Navbar
+    Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
 
-    Header
-        The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
+- Header
+    - The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
             
         Screenshot of navigation bar RiBL logo:     
 ![Screenshot](/assets/images/navbar-RiBL-logo.png)
    
     
     
-    Theme & color choice
+- Theme & color choice
 
-        #ffffff
-        #000000
-        #84c9dd
+    #ffffff White
+    #000000 Black
+    #84c9dd Teal/ Blue
 
-        Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
+    Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
         
-        Typography
-            Nunito Sans, sans-serif is used as the main font for the whole website.
-            Noto Serif, Times New Roman is Secondary font used through the website.
+- Typography
+    Nunito Sans, sans-serif is used as the main font for the whole website.
+    Noto Serif, Times New Roman is Secondary font used through the website.
 
         
-    Small (i)
-        Gives reference to one of the founders names & highlights the inclusion of internet & Ai driven decition within their trading method.
+Small (i)
+    Gives reference to one of the founders names & highlights the inclusion of internet & Ai driven decition within their trading method.
 
-    Footer
-        The footer section includes relevant links to X and Instgram. The links will open in a new tab and that give the company more credibility amoungs users.
+Footer
+    The footer section includes relevant links to X and Instgram. The links will open in a new tab and that give the company more credibility amoungs users.
 
-        Screenshot of footer social-links: assets/images/social-links.png
+    Screenshot of footer social-links: assets/images/social-links.png
 
-        Ive also included easy to navigate links to other pages of the website that allow for users to navigate better between pages, instead of going back up to the top of the page to select another page. 
+    Ive also included easy to navigate links to other pages of the website that allow for users to navigate better between pages, instead of going back up to the top of the page to select another page. 
 
 
 Website pages:
