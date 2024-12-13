@@ -113,7 +113,9 @@ Screenshot of interaction:
             
 
 ## Solomon Page
-The design is user-friendly, with text broken up by several hero images that span the full width of the page. This layout makes the content more engaging and easy to navigate. The page also provides users with detailed information about the company, its mission, and the roadmap ahead, offering a clear understanding of what to expect.
+The design is user-friendly, with text broken up by several hero images that span the full width of the page. This layout makes the content more engaging and easy to navigate. The page also provides users with detailed information about the company, its mission, and the roadmap ahead, offering a clear understanding of what to expect. Instead of including a "Meet the Team" section as in the initial wireframes, the company decided to add a roadmap. They believe that focusing on the company's future plans and vision will be more beneficial for users, helping them understand the direction the company is heading and the milestones to look forward to.
+
+
 
 
 ![Screenshot](assets/images/solomon-hero.png)
