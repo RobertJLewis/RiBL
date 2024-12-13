@@ -11,8 +11,8 @@ Fully responsive, the website will deliver an optimal experience across all devi
 ![Screenshot](assets/images/all-screen-size-mockup.png)
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Wireframes & Designs](#wireframes--designs)
+1. [Introduction](#Introduction)
+2. [Wireframes & Designs](#Initial wireframes)
    - [Home Page](#home-page)
    - [Solomon Page](#solomon-page)
    - [Newsletter Page](#newsletter-page)
