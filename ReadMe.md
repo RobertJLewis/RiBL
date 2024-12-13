@@ -73,8 +73,8 @@ At the top left of the header section, there is the company logo, which users ca
 * Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
         
 ## Typography
-Nunito Sans, sans-serif is used as the main font for the whole website.
-Noto Serif, Times New Roman is Secondary font used through the website.
+* Nunito Sans, sans-serif is used as the main font for the whole website.
+* Noto Serif, Times New Roman is Secondary font used through the website.
 
         
 ## Small (i)
@@ -99,7 +99,7 @@ When you land on the page, you're greeted with a GIF of fluctuating stock prices
 A countdown timer will create excitement and anticipation for the official launch of our AI trading bot. It serves as a visual reminder to users, building a sense of urgency and engagement as the launch date approaches. The timer can also help increase user retention, encouraging potential investors and traders to revisit the site regularly, ensuring they don't miss important updates or opportunities to get involved early. Additionally, it can give your website a dynamic, professional feel, signaling that something significant is on the horizon.
 ![Screenshot](assets/images/count-down-timer.png)
 
-### Warren buffet 
+### Warren buffet
 "iNVESTiNG TODAY,iS SAViNG TOMORROW"
 You’ll see a quote from Warren Buffett alongside his image, giving users a sense of direction and the potential vision for the company’s future. It adds inspiration and reinforces the company’s ambitions, as they aim to achive success similar to Warren Buffett.
             
@@ -229,5 +229,5 @@ I took inspiration from the Board Walk project for the header, footer and sign-u
 * Indicies Graphic: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsosoY1Ftldh-ZEebeTYMfjEmfguYl33elBrHRCiMfy_4gRYZO
 
 
-* Please note:
+### Please note:
     All images are for my project and are not intended for business or commercial use.
