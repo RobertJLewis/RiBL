@@ -1,41 +1,46 @@
-# Introduction:
-Project Milestone 1 for Code Institute Full-Stack Development Program: HTML/CSS Essentials
-This project is a Front End website for RIBL Capital, an autonomous trading company that leverages advanced AI bots, including one named Solomon, to execute strategic buy and sell decisions in the financial markets. The website is designed to introduce RIBL to potential clients, showcase its innovative brand, and highlight its cutting-edge services. Solomon autonomously analyzes market trends, assesses real-time data, and executes trades based on sophisticated algorithms, with the potential to integrate machine learning for enhanced decision-making over time. By utilizing this technology, RIBL Capital aims to create a highly efficient, independent trading system that optimizes market opportunities with minimal human intervention, while also exploring additional cloud platforms for improved functionality. The site is user-friendly and interactive, allowing visitors to connect with RIBL through a contact form and social media channels.
-Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
+# 1. Introduction:
+### Project Milestone 1 for Code Institute Full-Stack Development Program: HTML/CSS Essentials
+This project is a Front-End website for RIBL Capital, an autonomous trading company that leverages cutting-edge AI technology, including its flagship bot, Solomon. The platform is designed to strategically execute buy and sell decisions in the financial markets with precision and efficiency. The website will introduce RIBL to potential clients, showcase its innovative vision, and highlight the advanced capabilities of its AI-driven services.
+
+Solomon, RIBL Capital's leading AI bot, autonomously analyzes market trends and real-time data, executing trades based on sophisticated algorithms designed to optimize market opportunities. The technology also has the potential to integrate machine learning for enhanced decision-making, allowing the bot to adapt and evolve over time as market conditions shift. This approach positions RIBL Capital as a forward-thinking leader in the trading industry, offering a highly efficient and independent trading system with minimal human intervention.
+
+The website will be user-friendly, with a clean, professional design that allows visitors to easily navigate and engage with RIBL's brand. It will feature interactive elements, including a contact form for inquiries and direct links to RIBL's social media channels, ensuring clients can connect seamlessly. The site will also provide detailed insights into RIBL’s services, the AI technology behind Solomon, and the key investment sectors it targets.
+
+Fully responsive, the website will deliver an optimal experience across all devices, from desktops to smartphones, ensuring accessibility for users on any platform. With its launch scheduled for 2025, this project will establish RIBL Capital’s online presence, paving the way for future growth and expansion as the company continues to innovate in autonomous trading and explore new opportunities in cloud-based solutions.
 
     
 ![Screenshot](assets/images/all-screen-size-mockup.png)
 
 # ReadMe Table Content:
-- Introduction 
-- Wireframes & Designs
+1. Introduction 
+2. Wireframes & Designs
     - Home Page
     - Solomon Page
     - Newsletter Page
-- Website Features 
+3. Website Features 
     - Navbar
     - Header
     - Theme & Color
     - Typography
     - Small i 
     - Footer
-- Website pages
+4. Website pages
     - Index.html
-    - Count-down timer
-    - Warren buffet
-    - Investment sector cards explained
-- Solomon Page
-- Newsletter Page
-- Testing
+        - Count-down timer
+        - Warren buffet
+        - Investment sector cards explained
+    - Solomon Page
+    - Newsletter Page
+5. Testing
     - SEO: Lighthouse results 
     - HTML testing
     - CSS testing
     - Bugs
-- Deployment
-- Credits
+6. Deployment
+7. Credits
 
 
-# Initial wireframes:    
+# 2. Initial wireframes:    
 The site was developed with the Mobile-first method. The wireframes were therefore created with that thought in mind, and created using Adobe Illistrator. 
 - First Canvas:  Home page.
 - Second Canvas: Solomon Page. 
@@ -50,10 +55,10 @@ Laptop mockup screen shots:
 ![Screenshot](assets/images/laptop-wireframe.png)
 
 
-# Website Features: 
+# 3. Website Features: 
 * Navbar
 Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
-- Header
+* Header
 The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
             
 
@@ -90,7 +95,7 @@ Ive also included easy to navigate links to other pages of the website that allo
 
 
 
-# Website pages:
+# 4. Website pages:
 ## Index.html
 When you land on the page, you're greeted with a GIF of fluctuating stock prices, instantly giving you a feel for the company's focus and the website's theme. It sets the tone and highlights what the site is all about, giving you a glimpse of what’s coming.
 
@@ -117,7 +122,7 @@ The design is user-friendly, with text broken up by several hero images that spa
 The sign-up form enables RiBL to collect user data and send them tailor made emails, depending on preference of choosen investment secotr, about upcoming events, news, market trends or any milestones. after completing the newsletter form you instantly get redirected to a success page, which allows for the user to know they submittion was success. 
 
 
-# Testing
+# 5. Testing
 SEO: Lighthouse results 
 
 
@@ -148,7 +153,7 @@ No Bugs
 
 
 
-# Deployment 
+# 6. Deployment 
 Version Control
 The site was created using Gitpod editor and pushed to Github to the remote repository 'optimal_health'.
 Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
@@ -187,7 +192,7 @@ Font Awesome are used as an icons for user UX purposes.
 Illistrator and Photosho where used on images through my project for resizing and utalising their Ai generative fill feature
 
 
-## Credits
+# 7. Credits
 I want to give a special thanks to my mentor for all the support and for patiently answering my questions. I’d also like to thank Ieuan and Jyotsna for providing valuable, unbiased, non-tech perspectives, and Lewis for pointing out some great suggestions. Additional id like to thank Steve Powell, Ax de klerk and Jordan Comp for the weekly group chats we have where we discuss learning objectives of modules and projects. 
 
 The icons in the footer and in the headings were taken from Font Awesome.
