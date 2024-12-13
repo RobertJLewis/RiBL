@@ -70,7 +70,7 @@ At the top left of the header section, there is the company logo, which users ca
 * #ffffff (White)
 * #000000 (Black)
 * #84c9dd (Teal/ Blue)
-Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
+* Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
         
 ## Typography
 Nunito Sans, sans-serif is used as the main font for the whole website.
@@ -95,8 +95,9 @@ I’ve also included easy-to-navigate links within the footer that lead to other
 ## Index.html
 When you land on the page, you're greeted with a GIF of fluctuating stock prices, instantly giving you a feel for the company's focus and the website's theme. It sets the tone and highlights what the site is all about, giving you a glimpse of what’s coming.
 
-### Count-down timer 
+### [Count-down timer]
 A countdown timer will create excitement and anticipation for the official launch of our AI trading bot. It serves as a visual reminder to users, building a sense of urgency and engagement as the launch date approaches. The timer can also help increase user retention, encouraging potential investors and traders to revisit the site regularly, ensuring they don't miss important updates or opportunities to get involved early. Additionally, it can give your website a dynamic, professional feel, signaling that something significant is on the horizon.
+![Screenshot](assets/images/count-down-timer.png)
 
 ### Warren buffet 
 "iNVESTiNG TODAY,iS SAViNG TOMORROW"
