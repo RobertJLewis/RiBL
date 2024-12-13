@@ -4,7 +4,7 @@ Project Milestone 1 for Code Institute Full-Stack Development Program: HTML/CSS 
     Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
 
     
-    assets/images/screen-size mockup.png
+![Screenshot](assets/images/screen-size mockup.png)
 
 ReadMe Table Content:
     Introduction 
@@ -56,8 +56,9 @@ Initial wireframes:
         Newsletter sign-up page. 
 
     [Screen shot of wireframes for phone & laptop] 
-        Mobile Phone:   /assets/images/mobile-wireframe.png
-        Laptop:         /assets/images/laptop-wireframe.png
+        Mobile Phone:   ![Screenshot](/assets/images/mobile-wireframe.png)
+
+        Laptop:         ![Screenshot](/assets/images/laptop-wireframe.png)
 
 
 Website Features: 
@@ -111,7 +112,8 @@ Website pages:
         Investment sector cards explained 
             The interactive investment cards provide users with an engaging overview of the five key economic sectors—stocks, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
             
-            Screenshot of interaction: assets/images/investment-interaction.png
+            Screenshot of interaction:   
+                ![Screenshot](assets/images/investment-interaction.png)
             
 
     Solomon Page
@@ -124,17 +126,20 @@ Website pages:
 
 Testing
     SEO: Lighthouse results 
-        assets/images/lighthouse-result.png
+        ![Screenshot](assets/images/lighthouse-result.png)
 
         I used Lighthouse to check the pages and made sure the colors and fonts are clear and the site is accessible. I also tested the page in different browsers—Chrome, Safari, and Firefox—and confirmed it works properly in all of them. I checked that all internal links are working and properly redirecting between pages. I also tested that external links to social media sites open in a new tab. Lastly, I made sure the contact form works, with all fields required, the email field accepting only valid emails, and the submit button working as expected.
 
 
     HTML testing
-        Results: assets/images/HTML-testing complete.png
+        Results: 
+                ![Screenshot](assets/images/HTML-testing complete.png)
+
         No issues found when running the code through the W3C HTML Validator
 
     CSS testing 
-        Results: assets/images/CSS-testing complete.png
+        Results:
+        ![Screenshot](assets/images/CSS-testing complete.png)
         No errors found when running the code through the W3C CSS Validator
 
 
