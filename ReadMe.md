@@ -1,45 +1,45 @@
 Project Milestone 1 for Code Institute Full-Stack Development Program: HTML/CSS Essentials
-    This project is a Front End website for RIBL Capital, an autonomous trading company that leverages advanced AI bots, including one named Solomon, to execute strategic buy and sell decisions in the financial markets. The website is designed to introduce RIBL to potential clients, showcase its innovative brand, and highlight its cutting-edge services. Solomon autonomously analyzes market trends, assesses real-time data, and executes trades based on sophisticated algorithms, with the potential to integrate machine learning for enhanced decision-making over time. By utilizing this technology, RIBL Capital aims to create a highly efficient, independent trading system that optimizes market opportunities with minimal human intervention, while also exploring additional cloud platforms for improved functionality. The site is user-friendly and interactive, allowing visitors to connect with RIBL through a contact form and social media channels.
+This project is a Front End website for RIBL Capital, an autonomous trading company that leverages advanced AI bots, including one named Solomon, to execute strategic buy and sell decisions in the financial markets. The website is designed to introduce RIBL to potential clients, showcase its innovative brand, and highlight its cutting-edge services. Solomon autonomously analyzes market trends, assesses real-time data, and executes trades based on sophisticated algorithms, with the potential to integrate machine learning for enhanced decision-making over time. By utilizing this technology, RIBL Capital aims to create a highly efficient, independent trading system that optimizes market opportunities with minimal human intervention, while also exploring additional cloud platforms for improved functionality. The site is user-friendly and interactive, allowing visitors to connect with RIBL through a contact form and social media channels.
 
-    Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
+Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
 
     
 ![Screenshot](assets/images/screen-size mockup.png)
 
 ReadMe Table Content:
-    Introduction 
+Introduction 
 
-    Wireframes & Designs
-        Home Page
-        Solomon Page
-        Newsletter Page
+- Wireframes & Designs
+    - Home Page
+    - Solomon Page
+    - Newsletter Page
 
-    Website Features 
-        Navbar
-        Header
-        Theme & Color
-        Small i 
-        Footer
+- Website Features 
+    - Navbar
+    - Header
+    - Theme & Color
+    - Small i 
+    - Footer
 
-    Website pages
-        Index.html
-            Count-down timer
-            Warren buffet
-            Investment sector cards explained
+- Website pages
+    - Index.html
+    - Count-down timer
+    - Warren buffet
+    - Investment sector cards explained
 
-        Solomon Page
+- Solomon Page
 
-        Newsletter Page
+- Newsletter Page
 
-    Testing
-        SEO: Lighthouse results 
-        HTML testing
-        CSS testing
-        Bugs
+- Testing
+    - SEO: Lighthouse results 
+    - HTML testing
+    - CSS testing
+    - Bugs
 
-    Deployment
+- Deployment
 
-    Credits
+- Credits
 
 
 
@@ -56,9 +56,12 @@ Initial wireframes:
         Newsletter sign-up page. 
 
     [Screen shot of wireframes for phone & laptop] 
-        Mobile Phone:   ![Screenshot](/assets/images/mobile-wireframe.png)
+        Mobile Phone:   
+![Screenshot](/assets/images/mobile-wireframe.png)
+        
 
-        Laptop:         ![Screenshot](/assets/images/laptop-wireframe.png)
+        Laptop:         
+![Screenshot](/assets/images/laptop-wireframe.png)
 
 
 Website Features: 
@@ -70,7 +73,8 @@ Website Features:
         The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
             
         Screenshot of navigation bar RiBL logo:     
-            assets/images/navbar-RiBL-logo.png    
+![Screenshot](/assets/images/navbar-RiBL-logo.png)
+   
     
     
     Theme & color choice
@@ -113,7 +117,7 @@ Website pages:
             The interactive investment cards provide users with an engaging overview of the five key economic sectors—stocks, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
             
             Screenshot of interaction:   
-                ![Screenshot](assets/images/investment-interaction.png)
+![Screenshot](assets/images/investment-interaction.png)
             
 
     Solomon Page
@@ -133,7 +137,7 @@ Testing
 
     HTML testing
         Results: 
-                ![Screenshot](assets/images/HTML-testing complete.png)
+![Screenshot](assets/images/HTML-testing complete.png)
 
         No issues found when running the code through the W3C HTML Validator
 
