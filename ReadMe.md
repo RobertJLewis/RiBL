@@ -1,12 +1,12 @@
-Introduction:
+# Introduction:
 Project Milestone 1 for Code Institute Full-Stack Development Program: HTML/CSS Essentials
 This project is a Front End website for RIBL Capital, an autonomous trading company that leverages advanced AI bots, including one named Solomon, to execute strategic buy and sell decisions in the financial markets. The website is designed to introduce RIBL to potential clients, showcase its innovative brand, and highlight its cutting-edge services. Solomon autonomously analyzes market trends, assesses real-time data, and executes trades based on sophisticated algorithms, with the potential to integrate machine learning for enhanced decision-making over time. By utilizing this technology, RIBL Capital aims to create a highly efficient, independent trading system that optimizes market opportunities with minimal human intervention, while also exploring additional cloud platforms for improved functionality. The site is user-friendly and interactive, allowing visitors to connect with RIBL through a contact form and social media channels.
 Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
 
     
-![Screenshot](assets/images/screen-size-mockup.png)
+![Screenshot](assets/images/all-screen-size-mockup.png)
 
-ReadMe Table Content:
+# ReadMe Table Content:
 - Introduction 
 - Wireframes & Designs
     - Home Page
@@ -36,7 +36,7 @@ ReadMe Table Content:
 
 
 
-Initial wireframes:    
+# Initial wireframes:    
 The site was developed with the Mobile-first method. The wireframes were therefore created with that thought in mind, and created using Adobe Illistrator. 
 - First Canvas:  Home page.
 - Second Canvas: Solomon Page. 
@@ -51,7 +51,7 @@ Laptop mockup screen shots:
 ![Screenshot](assets/images/laptop-wireframe.png)
 
 
-Website Features: 
+# Website Features: 
 - Navbar
 Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
 - Header
@@ -64,14 +64,14 @@ Screenshot of navigation bar RiBL logo:
    
     
     
-- Theme & color choice
+## Theme & color choice
 #ffffff (White)
 #000000 (Black)
 #84c9dd (Teal/ Blue)
 
 Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
         
-- Typography
+### Typography
 Nunito Sans, sans-serif is used as the main font for the whole website.
 Noto Serif, Times New Roman is Secondary font used through the website.
 
@@ -90,7 +90,7 @@ Screenshot of footer social-links:
 Ive also included easy to navigate links to other pages of the website that allow for users to navigate better between pages, instead of going back up to the top of the page to select another page. 
 
 
-Website pages:
+# Website pages:
 - Index.html
 When you land on the page, you're greeted with a GIF of fluctuating stock prices, instantly giving you a feel for the company's focus and the website's theme. It sets the tone and highlights what the site is all about, giving you a glimpse of what’s coming.
 
