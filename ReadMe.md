@@ -4,7 +4,7 @@ This project is a Front End website for RIBL Capital, an autonomous trading comp
 Users of this website will be able to learn more about the company, the AI trading bot, and the investment sectors it targets. The launch is planned for 2025, and the website is fully responsive, ensuring a seamless experience on all screen sizes.
 
     
-![Screenshot](/assets/images/screen-size mockup.png)
+![Screenshot](assets/images/screen-size-mockup.png)
 
 ReadMe Table Content:
 - Introduction 
