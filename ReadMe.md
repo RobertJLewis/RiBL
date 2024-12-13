@@ -44,11 +44,11 @@ The site was developed with the Mobile-first method. The wireframes were therefo
 
 Mobile Phone mockup screen shots:  
 
-![Screenshot](/assets/images/mobile-wireframe.png)
+![Screenshot](assets/images/mobile-wireframe.png)
         
 Laptop mockup screen shots: 
 
-![Screenshot](/assets/images/laptop-wireframe.png)
+![Screenshot](assets/images/laptop-wireframe.png)
 
 
 Website Features: 
@@ -60,7 +60,7 @@ Website Features:
 
     Screenshot of navigation bar RiBL logo:   
 
-![Screenshot](/assets/images/navbar-RiBL-logo.png)
+![Screenshot](assets/images/navbar-RiBL-logo.png)
    
     
     
@@ -85,7 +85,7 @@ The footer section includes relevant links to X and Instgram. The links will ope
 
     Screenshot of footer social-links:
 
-![Screenshot](/assets/images/social-links.png)
+![Screenshot](assets/images/social-links.png)
 
 Ive also included easy to navigate links to other pages of the website that allow for users to navigate better between pages, instead of going back up to the top of the page to select another page. 
 
@@ -107,7 +107,7 @@ The interactive investment cards provide users with an engaging overview of the 
 
 Screenshot of interaction:   
 
-![Screenshot](/assets/images/investment-interaction.png)
+![Screenshot](assets/images/investment-interaction.png)
             
 
 - Solomon Page
@@ -121,7 +121,7 @@ The sign-up form enables RiBL to collect user data and send them tailor made ema
 SEO: Lighthouse results 
 
 
-![Screenshot](/assets/images/lighthouse-result.png)
+![Screenshot](assets/images/lighthouse-result.png)
 
 I used Lighthouse to check the pages and made sure the colors and fonts are clear and the site is accessible. I also tested the page in different browsers—Chrome, Safari, and Firefox—and confirmed it works properly in all of them. I checked that all internal links are working and properly redirecting between pages. I also tested that external links to social media sites open in a new tab. Lastly, I made sure the contact form works, with all fields required, the email field accepting only valid emails, and the submit button working as expected.
 
@@ -129,7 +129,7 @@ I used Lighthouse to check the pages and made sure the colors and fonts are clea
 
 Results: 
 
-![Screenshot](/assets/images/HTML-testing complete.png)
+![Screenshot](assets/images/HTML-testing-complete.png)
 
 
 No issues found when running the code through the W3C HTML Validator
@@ -138,7 +138,7 @@ No issues found when running the code through the W3C HTML Validator
 - CSS testing 
 Results:
     
-![Screenshot](/assets/images/CSS-testing complete.png)
+![Screenshot](assets/images/CSS-testing-complete.png)
 
 No errors found when running the code through the W3C CSS Validator
 
