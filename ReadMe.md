@@ -53,21 +53,21 @@ Laptop mockup screen shots:
 
 Website Features: 
 - Navbar
-    Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
+Featured at the top of all three pages, the navigation links are situated to the right. On larger screens they show the text; Home, Solomon and Newsletter. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands into a dropdown when you click it.
 - Header
-    - The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
+The Header at the top left in the header section, there is a company logo, that will take the user to the home page when clicked. The Company logo and sets the main color theme; green, gray, black and white.
             
 
-    Screenshot of navigation bar RiBL logo:   
+Screenshot of navigation bar RiBL logo:   
 
 ![Screenshot](assets/images/navbar-RiBL-logo.png)
    
     
     
 - Theme & color choice
-    #ffffff (White)
-    #000000 (Black)
-    #84c9dd (Teal/ Blue)
+#ffffff (White)
+#000000 (Black)
+#84c9dd (Teal/ Blue)
 
 Using black, white, and teal on your RiBL website creates a professional, clean, and modern look. Black and white offer a sleek and readable design, while teal adds a sense of trust, innovation, and calm, ideal for a tech-forward financial service. This color combination balances sophistication and approachability, helping reinforce RiBL's identity as both reliable and cutting-edge.
         
@@ -83,7 +83,7 @@ Gives reference to one of the founders names & highlights the inclusion of inter
 The footer section includes relevant links to X and Instgram. The links will open in a new tab and that give the company more credibility amoungs users.
 
 
-    Screenshot of footer social-links:
+Screenshot of footer social-links:
 
 ![Screenshot](assets/images/social-links.png)
 
@@ -153,50 +153,51 @@ Version Control
 The site was created using Gitpod editor and pushed to Github to the remote repository 'optimal_health'.
     
 - Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
-    Git add . - to add the files to the staging area before being committed.
-    Git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
-    Git push - to push all committed code to the remote repository on Github.
+    - Git add . - to add the files to the staging area before being committed.
+    - Git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
+    - Git push - to push all committed code to the remote repository on Github.
 
 
 - Deployment to Github pages
-    The site was deployed to Github pages as follows:
-    In the Github repository, I navigated to Settings tab From the source section drop-down menu, I selected the Master branch and Save Once the Master branch was selected, the page provided the link to the website The live link: Optimal Health.
+The site was deployed to Github pages as follows:
+In the Github repository, I navigated to Settings tab From the source section drop-down menu, I selected the Master branch and Save Once the Master branch was selected, the page provided the link to the website The live link: Optimal Health.
 
 - Cloning of the Repository Code locally
-    Go to the Github repository that you want to clone
-    Click on the Code button located above all the project files
-    Click on HTTPS and copy the repository link
-    Open the IDE of your choice and and paste the copied git url into the IDE terminal
-    The project is now created as a local clone
+    - Go to the Github repository that you want to clone
+    - Click on the Code button located above all the project files
+    - Click on HTTPS and copy the repository link
+    - Open the IDE of your choice and and paste the copied git url into the IDE terminal
+    - The project is now created as a local clone
 
 - Technologies Used
-    Languages Used
-    HTML5.
-    CSS3.
-    Java
-    Bootstrap.
+    - Languages Used
+    - HTML5
+    - CSS
+    - Java
+    - Bootstrap
 
 - Frameworks - Libraries - Programs Used
-    Google Fonts:
-    Google fonts were used to import the primary and secondaary fonts throughout the style.css.
+Google Fonts:
+Google fonts were used to import the primary and secondaary fonts throughout the style.css.
 
 - Font Awesome:
-    Font Awesome are used as an icons for user UX purposes.
+Font Awesome are used as an icons for user UX purposes.
 
 - Adobe
-    Illistrator and Photosho where used on images through my project for resizing and utalising their Ai generative fill feature
+Illistrator and Photosho where used on images through my project for resizing and utalising their Ai generative fill feature
 
 
 - Credits
-    I want to give a special thanks to my mentor for all the support and for patiently answering my questions. I’d also like to thank Ieuan and Jyotsna for providing valuable, unbiased, non-tech perspectives, and Lewis for pointing out some great suggestions.
+I want to give a special thanks to my mentor for all the support and for patiently answering my questions. I’d also like to thank Ieuan and Jyotsna for providing valuable, unbiased, non-tech perspectives, and Lewis for pointing out some great suggestions. Additional id like to thank Steve Powell, Ax de klerk and Jordan Comp for the weekly group chats we have where we discuss learning objectives of modules and projects. 
 
-    The icons in the footer and in the headings were taken from Font Awesome
-    The social media links to X (Twitter) and Instagram are the real ones this company is using.
-    The Favicon in the Title of the page was taken from Favicon
-    I took inspiration from the Board Walk project for the header, footer and sign-up page.
+
+The icons in the footer and in the headings were taken from Font Awesome.
+The social media links to X (Twitter) and Instagram are the real ones this company is using.
+The Favicon in the Title of the page was taken from Favicon
+I took inspiration from the Board Walk project for the header, footer and sign-up page.
 
 - Pictures & Vidoes 
-    Logos: Where created by myself a
+Logos: Where created by myself a
 
 - Images & Video Links:
     Home Page hero GIF: https://www.vecteezy.com/video/2273297-digital-animation-of-business-stock-market-price-chart 
