@@ -118,6 +118,14 @@ div.flex-container {
     padding: 12px;
 }
 
+
+#test-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
 footer {
     padding: 20px;
     background-color: white;
