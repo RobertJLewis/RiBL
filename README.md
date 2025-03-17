@@ -46,11 +46,11 @@ The site was designed using a Mobile-first approach, meaning it was created with
 
 ### Mobile Phone mockup screen shots:  
 
-![Screenshot](assets/images/mobile-wireframe.png)
+![Screenshot](assets/images/mobileWireframe.png)
         
 ### Laptop mockup screen shots: 
 
-![Screenshot](assets/images/laptop-wireframe.png)
+![Screenshot](assets/images/laptopWireframe.png)
 
 
 # 3. Website Features: 
@@ -61,7 +61,7 @@ At the top left of the header section, there is the company logo, which users ca
             
 ### Screenshot of navigation bar RiBL logo:   
 
-![Screenshot](assets/images/navbar-RiBL-logo.png)
+![Screenshot](assets/images/navbarRiblLogo.png)
    
     
     
@@ -84,7 +84,7 @@ The footer section includes links to the company’s social media profiles on X 
 
 ### Screenshot of footer social-links:
 
-![Screenshot](assets/images/social-links.png)
+![Screenshot](assets/images/socialLinks.png)
 
 I’ve also included easy-to-navigate links within the footer that lead to other pages of the website. This makes it more convenient for users to move between pages without needing to scroll back up to the top to select a different page. These links are designed to improve the overall user experience by allowing for quicker and smoother navigation, helping users find what they’re looking for with less effort and improving the site's accessibility.
 
@@ -96,7 +96,7 @@ When you land on the page, you're greeted with a GIF of fluctuating stock prices
 
 ### Count-down timer
 A countdown timer will create excitement and anticipation for the official launch of our AI trading bot. It serves as a visual reminder to users, building a sense of urgency and engagement as the launch date approaches. The timer can also help increase user retention, encouraging potential investors and traders to revisit the site regularly, ensuring they don't miss important updates or opportunities to get involved early. Additionally, it can give your website a dynamic, professional feel, signaling that something significant is on the horizon.
-![Screenshot](assets/images/count-down-timer.png)
+![Screenshot](assets/images/countDownTimer.png)
 
 ### Warren buffet
 "iNVESTiNG TODAY,iS SAViNG TOMORROW"
@@ -108,7 +108,7 @@ The interactive investment cards provide users with an engaging overview of the 
 
 Screenshot of interaction:   
 
-![Screenshot](assets/images/investment-interaction.png)
+![Screenshot](assets/images/investmentInteraction.png)
             
 
 ## Solomon Page
@@ -117,17 +117,17 @@ The design is user-friendly, with text broken up by several hero images that spa
 
 
 
-![Screenshot](assets/images/solomon-hero.png)
-![Screenshot](assets/images/roadmap-hero.png)
-![Screenshot](assets/images/take-rise-hero.png)
+![Screenshot](assets/images/solomonHero.png)
+![Screenshot](assets/images/roadmapHero.png)
+![Screenshot](assets/images/takeRiseHero.png)
 
 
 
 ## Newsletter page
 The sign-up form allows RiBL to gather user information and send personalised emails based on the investment sector the user selects. These emails will include updates about upcoming events, news, market trends, and important milestones. After submitting the form, users are instantly redirected to a success page. This page lets them know that their submission was successful, giving clear confirmation that their information has been received.
 
-![Screenshot](assets/images/newsletter-required.png)
-![Screenshot](assets/images/newsletter-success.png)
+![Screenshot](assets/images/newsletterRequired.png)
+![Screenshot](assets/images/newsletterSuccess.png)
 
 
 
@@ -135,14 +135,14 @@ The sign-up form allows RiBL to gather user information and send personalised em
 # 5. Testing
 SEO: Lighthouse results 
 
-![Screenshot](assets/images/lighthouse-result.png)
+![Screenshot](assets/images/lighthouseResult.png)
 
 I used Lighthouse to check the pages and made sure the colors and fonts are clear and the site is accessible. I also tested the page in different browsers—Chrome, Safari, and Firefox—and confirmed it works properly in all of them. I checked that all internal links are working and properly redirecting between pages. I also tested that external links to social media sites open in a new tab. Lastly, I made sure the contact form works, with all fields required, the email field accepting only valid emails, and the submit button working as expected.
 
 ## HTML testing
 ### Results: 
 
-![Screenshot](assets/images/HTML-testing-complete.png)
+![Screenshot](assets/images/htmlTestingComplete.png)
 
 
 No issues found when running the code through the W3C HTML Validator
@@ -151,7 +151,7 @@ No issues found when running the code through the W3C HTML Validator
 ## CSS testing 
 ### Results:
     
-![Screenshot](assets/images/CSS-testing-complete.png)
+![Screenshot](assets/images/cssTestingComplete.png)
 
 No errors found when running the code through the W3C CSS Validator
 
