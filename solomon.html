@@ -18,12 +18,11 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="assets/css/style.css">
     </head>
-
 <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary sticky-top">
+    <nav class="navbar navbar-expand-lg bg-light sticky-top">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                <img src="assets/images/riblIcon.png" alt="RiBL Logo" style="width: 55px;">
+                <img src="assets/images/riblIcon.png" alt="RiBL Logo" class="nav-logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,111 +43,48 @@
             </div>
         </div>
     </nav> 
-    <header class="container-fluid">
-        <div class="row">
-            <!-- Solomon logo above hero image -->
-            <section class="col-12 text-center" style="padding-top: 20px;">
-                <a id="solomon-logo" class="container-wrap">
-                    <img src="assets/images/solomonLogo.png" alt="solomon" width="195px">
-                </a>
-            </section>
-        </div>
     
-        <!-- AI Trading bot hero image -->
-        <div class="row">
-            <!-- Top two sections side by side -->
-            <section class="col-12">
-                <a id="ai-trading-hero" class="container-wrap">
-                    <img src="assets/images/aiTradingStock.png" class="img-fluid" alt="solomon-hero-img" width="100%">
-                </a>
-            </section>
-        </div>
+    <header class="container-fluid text-center py-3">
+        <img src="assets/images/solomonLogo.png" alt="Solomon Logo" width="195px" class="img-fluid">
+        <img src="assets/images/aiTradingStock.png" class="img-fluid w-100 mt-3" alt="Solomon Trading AI">
     </header>
-
-
-
-    <main>    
-        <section class="container col-10 align-items-left" style="padding-top: 40px;">
+    <main class="container py-4">
+        <section class="col-10 mx-auto">
             <h4>What is Solomon?</h4>
-            <div>
-                <ul>Solomon is an advanced AI trading bot designed to make intelligent, data-driven investment decisions on behalf of its users. </ul>
-                <ul>The name "Solomon" is inspired by the biblical story of King Solomon, known for his wisdom, wealth, and ability to make fair and insightful judgments. Just as King Solomon's decisions were rooted in wisdom, Solomon the AI trading bot uses sophisticated algorithms, machine learning, and real-time market analysis to make smart, strategic investment choices.</ul>
-                <ul>Solomon automatically executes trades to maximize returns while minimizing risks. By leveraging cutting-edge technology, it continuously learns from market trends and user interactions, refining its strategies to ensure optimal trading performance. Much like King Solomon's ability to navigate complex decisions, this bot is equipped to handle the complexities of the financial market.</ul> 
-                <ul>Ideal for both novice and experienced investors, Solomon offers a seamless and efficient way to engage with the financial markets, saving time and enhancing the potential for profitable outcomes.</ul>
+            <ul>
+                <li>Solomon is an advanced AI trading bot designed to make intelligent, data-driven investment decisions.</li>
+                <li>Inspired by King Solomon's wisdom, it uses algorithms, machine learning, and market analysis.</li>
+                <li>Solomon executes trades automatically to maximize returns while minimizing risks.</li>
+                <li>Ideal for both novice and experienced investors, providing an efficient trading solution.</li>
+            </ul>
+            <div class="text-center my-4">
+                <img src="assets/images/calculatedRisk.png" class="img-fluid" alt="Robot on mountain">
             </div>
-    
-
-            <div class="container-wrap" style="margin: 5vw;"> 
-                <img src="assets/images/calculatedRisk.png" class="img-fluid" alt="robot on mountain">
-            </div>
-
             <h5>Why Use Solomon?</h5>
-            <div> 
-                <ul>Automated Decision-Making: Solomon automatically executes trades based on real-time market data, saving users the time and effort of manual trading. This allows for consistent monitoring and action without human intervention.</ul>
-                <ul>Minimized Risk: Using advanced algorithms and machine learning, Solomon analyzes market trends to make informed decisions that aim to minimize risks while optimizing returns, offering a balanced approach to trading.</ul>
-                <ul>Continuous Learning: Solomon evolves by learning from market behavior and user preferences, refining its strategies to improve performance over time, adapting to market changes with increased accuracy.</ul>
-                <ul>Accessibility for All Investors: Whether you are a beginner or a seasoned trader, Solomon provides a user-friendly interface and efficient trading solutions, making it accessible to a wide range of users with different levels of experience.</ul>
-                <ul>24/7 Market Monitoring: Solomon operates around the clock, ensuring that no trading opportunity is missed, even when users are unavailable to actively manage their investments. This provides peace of mind and increases the chances of capturing market opportunities.</ul>
-           </div>
+            <ul>
+                <li>Automated decision-making based on real-time data.</li>
+                <li>Minimizes risks while optimizing returns.</li>
+                <li>Continuously learns from market trends.</li>
+                <li>Accessible for all investor levels.</li>
+                <li>24/7 market monitoring.</li>
+            </ul>
         </section>
-
-        <!-- Meet the team title-->
-        <div class="row" justify-content="center">
-            <!-- Top two sections side by side -->
-            <div class="col-12">
-                <section class="container">
-                    <div class="flex-column" id="meet-team" >
-                        <h2 id="ivesting-quote" style="text-align: center;">
-                            RiBL's <span style="color: #84c9dd;">ROADMAP</span>
-                        </h2>                            
-                    </div>
-                </section>
-            </div>
-        </div>
-
-
-
-        <div class="container-fluid" style="margin-bottom: 40px;"> 
-            <img src="assets/images/roadmap.png" class="img-fluid" alt="roadmap image">
-        </div>
+        <section class="text-center my-5">
+            <h2>RiBL's <span class="text-primary">ROADMAP</span></h2>
+            <img src="assets/images/roadmap.png" class="img-fluid" alt="Roadmap Image">
+        </section>
     </main>
-
-
-    <footer class="mt-auto" style="padding: 20px;">
+    <!-- Footer -->
+    <footer class="text-center mt-5 footer-section">
         <div class="container">
-            <div class="row justify-content-center">
-                <a class="col-12 col-md-4 col-xl-4 text-center" href="index.html" style="color: black;">Home</a>
-                <a class="col-12 col-md-4 col-xl-4 nav-link active text-center" href="solomon.html" style="color: black;">Solomon</a>
-                <a class="col-12 col-md-4 col-xl-4 text-center" href="newsletter.html" style="color: black;">Newsletter</a>
+            <div class="row">
+                <a class="col-md-4 nav-link" href="index.html">Home</a>
+                <a class="col-md-4 nav-link" href="solomon.html">Solomon</a>
+                <a class="col-md-4 nav-link" href="newsletter.html">Newsletter</a>
             </div>
-        </div>
-        
-        <div class="flex-container" style="padding-top: 25px;">
-                <!-- Logo Link -->
-            <a id="RiBL-bird-nav" class="navbar-brand" href="index.html">
-                <img src="assets/images/riblLongLogo.png" alt="RiBL Logo" width="80px" height="auto">
-            </a>
-            
-            <!-- Social Media Icons -->
-            <div class="social-icons">
-                <a href="https://www.facebook.com/yourpage" target="_blank" class="social-icon">
-                    <i class="bi bi-facebook">
-                </a>
-                <a href="https://x.com/yourhandle" target="_blank" class="x-social-icon">
-                    <i class="bi bi-twitter-x">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="black" class="bi bi-twitter-x" viewBox="0 0 16 16">
-                            <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
-                        </svg>
-                    </i>
-                </a>
-
-                <a href="https://instgram.com/yourhandle" target="_blank" class="ig-social-icon">
-                    <i class="bi bi-twitter-x">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="black" class="bi bi-instagram" viewBox="0 0 16 16">
-                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
-                        </svg>
-                    </i>
-                </a>
+            <div class="social-icons mt-3">
+                <a href="https://www.instagram.com/riblcapital/" target="_blank" class="social-icon" aria-label="Opens instagram"><i class="bi bi-instagram"></i></a>
+                <a href="https://x.com/riblcapital" target="_blank" class="social-icon" aria-label="Opens X"><i class="bi bi-twitter-x"></i></a>
             </div>
         </div>
     </footer>
@@ -157,9 +93,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
     </script>
-
-    <!-- Font Awesome kit -->
+    <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/aa9af45995.js" crossorigin="anonymous"></script>
-
 </body>
 </html>
