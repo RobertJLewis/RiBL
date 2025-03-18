@@ -1,466 +1,142 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Macondo&display=swap');
-
 /* CSS Variables */
 :root {
     --primary-font: "Nunito Sans", sans-serif;
     --secondary-font: "Noto Serif", Times New Roman;
-
-    --primary-color: black; /* dark brown */
-    --secondary-color: white; /* light brown */
-    --third-color: #84c9dd; /* Teal/ Vibrant Blue */
-
-    --highlight-color: #416a8e; /* blue */
-    --highlight-color-light: #7a9fc2; /* light blue */
+    --primary-color: black;
+    --secondary-color: white;
+    --third-color: #84c9dd;
+    --highlight-color: #416a8e;
+    --highlight-color-light: #7a9fc2;
 }
-
 /* Global styles */
-
+body {
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+}
 .navbar {
     background-color: var(--secondary-color);
-    color: var(--secondary-color); 
+    color: var(--primary-color);
     margin-bottom: 15px;
 }
-
-.navbar-toggler {
-    background-color: white;
-    border-radius: 0px;
+.nav-logo {
+    width: 55px;
 }
-
-
-h1 {
+h1, h2, h3 {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+h1 {
     font-size: 32px;
 }
-
 h2 {
-    font-family: var(--secondary-font);
-    color: var(--secondary-color);
     font-size: 20px;
-    text-align: center;
     padding-top: 3rem;
 }
-
 h3 {
-    font-family: var(--secondary-font);
-    color: var(--secondary-color);
-    text-align: center;
     font-size: 22px;
 }
-
-h4, h5 {
-    font-size: 16px;
-
-}
-
 p {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
     text-align: center;
     font-size: 12px;
 }
-
-
-
-input, select, form, .form-control, .form-select {
-    border-radius: 0;
-}
-
-.form-label {
-    margin: 0;
-    margin-top: 15px; 
-}
-
-
-
-.sub-heading-color {
-    color: var(--highlight-color);
-}
-
-footer {
-    background-color: white;
-    color: black;
-    font-size: 16px;
-    padding-top: 30px;
-
-}
-
-div.container {
-    text-align: center;
-
-}
-
-div.container-fluid {
+.container, .container-fluid {
     text-align: center;
 }
-
-div.flex-container {
-    align-items: center;
-}
-
-.footer-link {
-    padding: 10px; /* Adds padding around each link */
-    text-align: center; /* Center the text inside the column */
-    font-size: 16px;
-}
-
-.social-icons a {
-    padding: 10px; /* Adds padding around each social icon */
-    text-decoration: none;
-    color: black;
-}
-
-.flex-container {
+/* Countdown Timer */
+.countdown-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 12px;
+    padding: 30px 0;
 }
-
-
-#test-container {
-    background-color: #f5f5f5;
-    padding: 20px;
-    border-radius: 8px;
-}
-
-
-footer {
-    padding: 20px;
-    background-color: white;
-    border-top: 1px solid #ccc;
-}
-
-
-/* COUNTDOWN timer*/
-body {
-    font-family: var(--primary-font);
-    color: var(--secondary-color);
-    background-color: var(--primary-color);
-
-    /* count down */
-    justify-content: center;
-    align-items: center;
-    font-size: 16px;
-    background: black no-repeat center center / cover;
-    color: white;
-}
-
-.countdown-container {
-    width: 100%;
-    justify-content: space-between;
-    display: flex;              /* Flexbox layout */
-    justify-content: center;    /* Center the items horizontally */
-    align-items: center; 
-    padding-top: 30px;
-    padding-bottom: 30px;
-
-}
-  
-.days-container,
-.hours-container,
-.minutes-container, 
-.seconds-container {
+.countdown-item {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgba(0,0,0,0.1);
-    border: 5px solid rgba(255,255,255,0.3);
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 5px solid rgba(255, 255, 255, 0.3);
     width: 140px;
     height: 140px;
     border-radius: 99px;
+    margin: 0 10px;
 }
-  
-.days,
-.hours,
-.minutes,
-.seconds {
-    font-size: 2.5em; 
+.countdown-number {
+    font-size: 2.5em;
     margin: 10px 0;
 }
-  
-  
-.days-label,
-.hours-label,
-.minutes-label,
-  seconds-label {
+.countdown-label {
     text-transform: uppercase;
     margin-bottom: 5px;
 }
-  
-@media (max-width: 800px) {
-    .countdown-container {
-      max-width: 100%;
-    }
-    
-    .days-container,
-    .hours-container,
-    .minutes-container, 
-    .seconds-container {
-      font-size: 0.6em;
-      width: 100px;
-      height: 100px;
-    }
+/* Hero Section */
+.hero {
+    text-align: center;
 }
-  
-
-
-
-
-
-
-/* Target only the #buffets-find-out section */
-#buffets-find-out {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-/* Flexbox layout for the row inside #buffets-find-out */
-#buffets-find-out .row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.hero-image {
     width: 100%;
+    height: auto;
 }
-/* Flexbox layout for the columns inside the row */
-#buffets-find-out .col-5, 
-#buffets-find-out .col-7 {
+.launch-title {
+    font-size: 32px;
+}
+/* Investment Section */
+.investment-sectors {
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
-/* Optional: Adjustments to card-group for centering */
-#buffets-find-out .card-group {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-div.card-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-
-.card-body {
-    background-color: black;
-    color: white;    
-}
-.card {
-    --bs-card-border-width: 0;
-}
-.custom-img {
-    width: 20px;
-    height: auto; /* Keeps aspect ratio */
-}
-
-div, .btn.btn-light {
-    border-radius: 0;
-    font-family: var(--secondary-font);
-}
-
-.card-img-top {
-    max-width: 350px;
-}
-
-
-#sign-up-btn {
-    border-radius: 0;
-    background-color: white;
-    color: black;
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-
-
-
-
-/* Target only the container with ID #five-card */
-/* Background color for the body */
-body {
-    background-color: black;
-    margin: 0;
-    padding: 0;
-}
-
-/* Target only the container with ID #five-card */
-#five-card {
-    margin-top: 5%;
-    margin-bottom: 5%;
-    width: 70%;
-    height: 30vw;
-    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
+    margin: 20px 0;
 }
-
-/* Styling for each card inside #five-card */
-#five-card .card {
-    width: 20%; /* Each card takes up 20% of the container's width */
-    height: 100%; /* The card's height is 100% of the container */
-    overflow: hidden;
-    border-radius: 10px;
-    border: 2px solid white;
-    position: relative; /* Required for positioning elements inside */
-    transition: transform 0.5s ease-in-out;
-    border-radius: 0px;
+.investment-sectors .card {
+    width: 20%;
+    border: none;
 }
-
-/* Image inside the card */
-#five-card .card img {
-    width: 100%; /* Image fills 100% of the card's width */
-    height: 100%; /* Image fills 100% of the card's height */
-    object-fit: cover; /* Ensures the image covers the card without distortion */
-    transition: transform 0.5s ease-in-out; /* Smooth transition for scaling */
-    transform-origin: bottom center; /* This makes the image scale from the bottom */
+.investment-sectors .card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
-
-/* Hover effect for the cards to reveal full image */
-#five-card .card:hover {
-    transform: scale(1.2); /* Scale the card on hover to reveal the full image */
+/* Buttons */
+.find-out-btn {
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
 }
-
-/* Hover effect on the image inside the card */
-#five-card .card:hover img {
-    transform: scale(1.1); /* Scale the image slightly on hover */
+/* Footer */
+.footer-section {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-top: 1px solid #ccc;
 }
-
-@media (max-width: 1024px) {
-    #five-card {
-        width: 90%; /* Reduce container width to 90% on tablets */
+.social-icons a {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+/* Responsive Design */
+@media (max-width: 800px) {
+    .countdown-item {
+        font-size: 0.8em;
+        width: 100px;
+        height: 100px;
     }
-    #five-card .card img {
-        transform-origin: bottom center; /* Ensure the bottom of the image is the focal point */
-    }
 }
-
-/* Media Query for Small Devices (Phones) */
 @media (max-width: 768px) {
-    #five-card {
-        width: 95%; /* Reduce container width to 95% on smaller devices */
-    }
-
-    #five-card .card {
-        width: 40%; /* Reduce each card width to 40% on smaller devices */
-    }
-
-    #five-card .card img {
-        transform-origin: bottom center; /* Ensure the bottom of the image is the focal point */
-    }
-}
-
-
-
-/* Media queries */
-
-/* Medium devices (tablets, 768px and up) */
-@media screen and (min-width: 768px) {
-    /* Make all service cards the same height for consistency */
-    #services .card-body {
-        min-height: 191px;
-    }
-}
-
-/* Large devices (small laptops, 992px and up) */
-@media screen and (min-width: 992px) {
-    /* Make all service cards the same height for consistency */
-    #services .card-body {
-        min-height: auto;
-        
-    }
-}
-
-/* xl devices (large desktops, 1200px and up) */
-@media screen and (min-width: 1200px) {
-    /* make all service cards the same height for consistency */
-    #services .card-body {
-        min-height: 220px;
-    }
-}
-
-/* xxl devices (larger desktops, 1400px and up) */
-@media screen and (min-width: 1400px) {
-    /* make all service cards the same height for consistency */
-    #services .card-body {
-        min-height: 195px;
-    }
-}
-
-
-
-
-/* NEW MEDIA QUERYS CLEAN UP!!*/
-
-/* Media queries */
-
-/* Media Queries for responsive font sizing */
-@media screen and (min-width: 500px) {
-    h2 {
-        font-size: 32px;
-    }
-}
-
-/* Medium devices (tablets, 768px and up) */
-@media screen and (min-width: 768px) {
-    /* Make all service cards the same height for consistency */
-    h1 {
-        font-size: 40px;
-    }
-}
-@media screen and (min-width: 768px) {
-    h2 {
-        font-size: 41px;
-    }
-}
-
-
-
-/* Large devices (small laptops, 992px and up) */
-@media screen and (min-width: 992px) {
-    /* Make all service cards the same height for consistency */
-    h1 {
-        font-size: 46px;
-    }
-}
-@media screen and (min-width: 992px) {
-    h2 {
-        font-size: 48px;
-    }
-}
-
-
-/* xl devices (large desktops, 1200px and up) */
-@media screen and (min-width: 1200px) {
-    /* make all service cards the same height for consistency */
-    h1 {
-        font-size: 50px;
-    }
-}
-@media screen and (min-width: 1200px) {
-    h2 {
-        font-size: 55px;
-    }
-}
-
-
-
-
-
-
-
-
-/* xxl devices (larger desktops, 1400px and up) */
-@media screen and (min-width: 1400px) {
-    /* make all service cards the same height for consistency */
-    h1 {
-        font-size: 52px;
-    }
-}
-@media screen and (min-width: 1400px) {
-    h2 {
-        font-size: 75px;
+    .investment-sectors .card {
+        width: 40%;
     }
 }
