@@ -82,20 +82,23 @@ p {
 .hero {
     text-align: center;
 }
-.hero-image {
+.stockHero {
     width: 100%;
     height: auto;
+}
+.hero-image {
+    width: 40%;
+    height: auto
 }
 .launch-title {
     font-size: 32px;
 }
 /* Investment Section */
 .investment-sectors {
-    display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
     margin: 20px 0;
+    gap: 20px;
 }
 .investment-sectors .card {
     width: 20%;
@@ -116,6 +119,9 @@ p {
     text-decoration: none;
 }
 /* Footer */
+.card-body {
+    color: white;
+}
 .footer-section {
     background-color: white;
     color: black;
