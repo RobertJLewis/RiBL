@@ -140,10 +140,16 @@ I used Lighthouse to check the pages and made sure the colors and fonts are clea
 
 ## HTML testing
 ### Results: 
-
+### Index HTML: 
 ![Screenshot](assets/images/indexHtmlValidator.png)
+
+### Solomon HTML: 
 ![Screenshot](assets/images/solomonHtmlValidator.png)
+
+### Newsletter HTML: 
 ![Screenshot](assets/images/newsletterHtmlValidator.png)
+
+### Success HTML: 
 ![Screenshot](assets/images/successHtmlValidator.png)
 
 
