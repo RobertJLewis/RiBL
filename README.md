@@ -132,9 +132,20 @@ The sign-up form allows RiBL to gather user information and send personalised em
 
 
 # 5. Testing
-SEO: Lighthouse results 
+### Lighthouse results 
+### Results: 
 
-![Screenshot](assets/images/lighthouseResult.png)
+### Index HTML: 
+![Screenshot](assets/images/indexLighthouse.png)
+
+### Solomon HTML: 
+![Screenshot](assets/images/solomonLighthouse.png)
+
+### Newsletter HTML: 
+![Screenshot](assets/images/newsletterLighthouse.png)
+
+### Success HTML: 
+![Screenshot](assets/images/successLighthouse.png)
 
 I used Lighthouse to check the pages and made sure the colors and fonts are clear and the site is accessible. I also tested the page in different browsers—Chrome, Safari, and Firefox—and confirmed it works properly in all of them. I checked that all internal links are working and properly redirecting between pages. I also tested that external links to social media sites open in a new tab. Lastly, I made sure the contact form works, with all fields required, the email field accepting only valid emails, and the submit button working as expected.
 
