@@ -8,7 +8,7 @@ The website will be user-friendly, with a clean, professional design that allows
 
 Fully responsive, the website will deliver an optimal experience across all devices, from desktops to smartphones, ensuring accessibility for users on any platform. With its launch scheduled for 2025, this project will establish RIBL Capital’s online presence, paving the way for future growth and expansion as the company continues to innovate in autonomous trading and explore new opportunities in cloud-based solutions.
 
-![Screenshot](assets/images/all-screen-size-mockup.png)
+![Screenshot](assets/images/allScreenSizeMockup.png)
 
 # Table of Contents
 1. [Introduction](#Introduction)
