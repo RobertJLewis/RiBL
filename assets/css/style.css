@@ -32,11 +32,9 @@ h1, h2, h3 {
 ul {
     list-style: none;
 }
-h1 {
-    font-size: 32px;
-}
+
 h2 {
-    font-size: 20px;
+    font-size: 30px;
     padding-top: 3rem;
 }
 h3 {
@@ -91,7 +89,7 @@ p {
     height: auto
 }
 .launch-title {
-    font-size: 32px;
+    font-size: 40px;
 }
 /* Investment Section */
 .investment-sectors {
