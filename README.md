@@ -106,7 +106,7 @@ You’ll see a quote from Warren Buffett alongside his image, giving users a sen
 The investment cards provide users with an engaging overview of the four key economic sectors, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
             
 
-Screenshot of interaction:   
+Screenshot of investment cards:   
 
 ![Screenshot](assets/images/investmentInteraction.png)
             
