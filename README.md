@@ -106,6 +106,10 @@ You’ll see a quote from Warren Buffett alongside his image, giving users a sen
 The investment cards provide users with an engaging overview of the four key economic sectors, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
       
 
+ 
+poush test 
+
+
 ## Solomon Page
 The design is user-friendly, with text broken up by several hero images that span the full width of the page. This layout makes the content more engaging and easy to navigate. The page also provides users with detailed information about the company, its mission, and the roadmap ahead, offering a clear understanding of what to expect. Instead of including a "Meet the Team" section as in the initial wireframes, the company decided to add a roadmap. They believe that focusing on the company's future plans and vision will be more beneficial for users, helping them understand the direction the company is heading and the milestones to look forward to.
 
