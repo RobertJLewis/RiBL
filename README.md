@@ -107,7 +107,7 @@ The investment cards provide users with an engaging overview of the four key eco
       
 
  
-poush test 
+![Screenshot](assets/images/investmentInteraction.png)
 
 
 ## Solomon Page
