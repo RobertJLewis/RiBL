@@ -106,8 +106,6 @@ p {
     border: none;
 }
 .investment-sectors .card img {
-    width: 100%;
-    height: auto;
     object-fit: cover;
 }
 /* Buttons */
@@ -116,7 +114,7 @@ p {
     background-color: white;
     color: black;
     padding: 10px 20px;
-    border-radius: 5px;
+    border-radius: 0px;
     text-decoration: none;
 }
 /* Footer */
