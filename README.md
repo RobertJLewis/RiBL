@@ -103,7 +103,7 @@ A countdown timer will create excitement and anticipation for the official launc
 You’ll see a quote from Warren Buffett alongside his image, giving users a sense of direction and the potential vision for the company’s future. It adds inspiration and reinforces the company’s ambitions, as they aim to achive success similar to Warren Buffett.
             
 ### Investment sector cards explained 
-The interactive investment cards provide users with an engaging overview of the five key economic sectors—stocks, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
+The investment cards provide users with an engaging overview of the four key economic sectors, forex, currency, crypto, and futures—that the company plans to target. Each card gives users a glimpse into the diverse investment opportunities RiBL focuses on, highlighting the variety and potential of each sector. This feature not only makes the site more interactive but also helps users understand the broader investment strategy and areas where they can expect growth and innovation.
             
 
 Screenshot of interaction:   
