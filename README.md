@@ -21,7 +21,6 @@ Fully responsive, the website will deliver an optimal experience across all devi
     - [Header](#header)
     - [Theme & Color](#theme--color)
     - [Typography](#typography)
-    - [Small i](#small-i)
     - [Footer](#footer)
 4. [Website Pages](#website-pages)
     - [Index.html](#indexhtml)
@@ -74,10 +73,6 @@ At the top left of the header section, there is the company logo, which users ca
 ## Typography
 * Nunito Sans, sans-serif is used as the main font for the whole website.
 * Noto Serif, Times New Roman is Secondary font used through the website.
-
-        
-## Small (i)
-Gives reference to one of the founders names & highlights the inclusion of internet & Ai driven decition within their trading method.
 
 ## Footer
 The footer section includes links to the company’s social media profiles on X (formerly Twitter) and Instagram. When clicked, these links open in a new tab, allowing users to browse the company’s social media pages without leaving the site. Adding these links helps build trust and credibility with users, showing that the company is active and engaged with its audience. It also gives users an easy way to stay updated on the latest news and content from the company.
@@ -184,7 +179,7 @@ If I were to redo this project, I would use web-optimised images instead of PNG 
 
 # 7. Deployment 
 ### Version Control
-The site was developed using the Gitpod editor and pushed to GitHub, where the remote repository is named 'optimal_health'. Throughout the development process, Git commands were used to manage and track changes to the code. These commands allowed for efficient collaboration and version control. The following Git commands were used:
+The site was developed using VS Code and pushed to GitHub, where the remote repository is named 'optimal_health'. Throughout the development process, Git commands were utilized to manage and track changes to the code. These commands enabled efficient collaboration and version control. The following Git commands were used:
 
 ### Git add . 
 * This command was used to add all files to the staging area, preparing them for commit.
@@ -251,5 +246,3 @@ I took inspiration from the Board Walk project for the header, footer and sign-u
 
 ### Please note:
     All images are for my project and are not intended for business or commercial use.
-
-push test
