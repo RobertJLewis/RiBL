@@ -108,6 +108,10 @@ p {
 .investment-sectors .card img {
     object-fit: cover;
 }
+.img-solomon-logo {
+    width: 195px;
+    height: auto; /* Ensure the aspect ratio is maintained */
+}
 /* Buttons */
 .find-out-btn {
     margin-top: 20px;
