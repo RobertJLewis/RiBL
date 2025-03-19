@@ -141,7 +141,10 @@ I used Lighthouse to check the pages and made sure the colors and fonts are clea
 ## HTML testing
 ### Results: 
 
-![Screenshot](assets/images/htmlTestingComplete.png)
+![Screenshot](assets/images/indexHtmlValidator.png)
+![Screenshot](assets/images/solomonHtmlValidator.png)
+![Screenshot](assets/images/newsletterHtmlValidator.png)
+![Screenshot](assets/images/successHtmlValidator.png)
 
 
 No issues found when running the code through the W3C HTML Validator
